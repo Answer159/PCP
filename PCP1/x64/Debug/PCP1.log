@@ -1,0 +1,6 @@
+﻿  PCenter.cpp
+C:\Users\10844\source\repos\PCP1\PCP1\PCenter.cpp(213,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\10844\source\repos\PCP1\PCP1\PCenter.cpp(214,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  PCP1.vcxproj -> C:\Users\10844\source\repos\PCP1\x64\Debug\PCP1.exe
